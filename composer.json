@@ -1,0 +1,27 @@
+{
+    "name": "pieter/amp-websocket-command",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pieter Hordijk",
+            "email": "info@pieterhordijk.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": "^7.1",
+        "rdlowrey/auryn": "^1",
+        "daverandom/exceptional-json": "^1",
+        "amphp/amp": "^2"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6.0"
+    },
+    "autoload": {
+        "psr-4": {"PeeHaa\\AmpWebsocketCommand\\": "src/"}
+    },
+    "autoload-dev": {
+        "psr-4": {"PeeHaa\\AmpWebsocketCommandTests\\": "tests/"}
+    }
+}
