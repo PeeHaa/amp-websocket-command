@@ -1,5 +1,7 @@
 # Amp Websocket Command
 
+[![Build Status](https://travis-ci.org/PeeHaa/amp-websocket-command.svg?branch=master)](https://travis-ci.org/PeeHaa/amp-websocket-command)
+
 Provides abstractions for amp websocket messaging and command handling
 
 ## Status
