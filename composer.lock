@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "f171c8fa61c822ab76732b317799cdc7",
+    "content-hash": "5f8e5c3d5e46fd7394ad226d388fb994",
     "packages": [
         {
             "name": "amphp/amp",
